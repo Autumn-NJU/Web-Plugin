@@ -182,7 +182,7 @@
                 //input file控件对象
                 file: '',
                 //上传类型
-                type: 'image',
+                type: '',
                 //上传最多个数
                 maximum: 5,
                 //文件大小 2M
